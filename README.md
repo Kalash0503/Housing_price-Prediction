@@ -6,7 +6,7 @@ Introduction
 
 Installation
 
-To run this project, you will need Python 3.x installed on your machine. Additionally, ensure you have the following libraries installed:
+To run this undertaking, you may need Python three.X set up in your device. Additionally, make certain you have the subsequent libraries established:
 
 Pandas
 NumPy
@@ -28,6 +28,12 @@ Navigate to the project directory.
 Run the C1_W2_Linear_Regression.ipynb script using Python:
 
 
+
+
+
+
+
+
 Data
 
 Two dataset used in this project is included in the repository as ex1data1.txt and ex1data2. It contains information about population and city to find answer for population vs profit per city.
@@ -35,14 +41,14 @@ Two dataset used in this project is included in the repository as ex1data1.txt a
 
 Model
 
-The model used for predicting housing prices is Linear regression algorithm trained on the provided dataset. The model has been evaluated for accuracy and performance using appropriate metrics.
+The model used for predicting eating place income is primarily based at the Linear Regression algorithm. It is educated on the supplied dataset, leveraging one variable to are expecting earnings for a food truck or eating place. The version has been evaluated for accuracy and performance the use of suitable metrics.
 
 
 Results
 
-Upon running the script, you will see the predicted prices of houses based on the input features. Additionally, visualizations may be generated to provide insights into the data and model performance.
+The consequences of this mission will offer insights into the potential profitability of different towns based totally on their respective populations. Additionally, the visualizations generated will offer precious data about the information and the performance of the predictive model.
 
 Contributing
 
-Contributions to this project are welcome. If you have suggestions for improvement or would like to add new features, please feel free to open an issue or submit a pull request.
+Contributions to this venture are welcome. If you've got guidelines for development or would love to feature new functions, please experience loose to open an issue or post a pull request.
 
